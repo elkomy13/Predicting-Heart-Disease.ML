@@ -16,7 +16,7 @@ There is also a version of it available on Kaggle. https://www.kaggle.com/datase
 
 4. Features
 
-This is where you'll get different information about each of the features in your data. You can do this via doing your own research (such as looking at the links above) or by talking to a subject matter expert (someone who knows about the dataset).
+This is where you'll get different information about each of the features in your data
 
 Create data dictionary:
 
