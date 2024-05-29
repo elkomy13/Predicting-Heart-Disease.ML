@@ -1,4 +1,4 @@
-Heart Disease Classification Project
+# Heart Disease Classification Project
 
 This project aims to predict the presence of heart disease in individuals based on various medical attributes and data. It utilizes machine learning algorithms to classify whether a person is likely to have heart disease or not, providing a valuable tool for early detection and prevention.
 
@@ -12,9 +12,9 @@ Given clinical parameters about a patient, can we predict whether or not they ha
 Data The original data came from the Cleavland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+Disease
 There is also a version of it available on Kaggle. https://www.kaggle.com/datasets/sumaiyatasmeem/heart-disease-classification-dataset
 
-3. Evaluation If we can reach 95% accuracy at predicting whether or not a patient has heart disease during the proof of concept, we'll pursue the project.
+#  Evaluation If we can reach 95% accuracy at predicting whether or not a patient has heart disease during the proof of concept, we'll pursue the project.
 
-4. Features
+# Features
 
 This is where you'll get different information about each of the features in your data
 
@@ -65,7 +65,7 @@ target - have disease or not (1=yes, 0=no) (= the predicted attribute)
 
 Heart Disease Classification Project Workflow
 
-1-Exploratory Data Analysis (EDA)
+# 1- Exploratory Data Analysis (EDA)
 
 Exploratory Data Analysis is a critical step in understanding the dataset. This process involves:
 
@@ -73,7 +73,7 @@ Exploratory Data Analysis is a critical step in understanding the dataset. This 
   Visualizing relationships between variables to uncover patterns, correlations, and potential   outliers.
   Identifying missing values, handling duplicates, and preprocessing data for model training.
   
-2-Model Training
+# 2- Model Training
 
   The core of this project involves training machine learning models to predict the presence of heart disease. This phase includes:
   
@@ -83,22 +83,22 @@ Exploratory Data Analysis is a critical step in understanding the dataset. This 
   Model Evaluation
   Evaluating the model's predictions using relevant evaluation metrics specific to the heart disease prediction task, such as accuracy, precision, recall, F1-score, and ROC-AUC.
 
-3-Model Comparison
+# 3- Model Comparison
 
   Comparing the performance of multiple models to identify the most effective one in accurately predicting heart disease presence.
 
-4-Model Fine-Tuning
+# 4- Model Fine-Tuning
 
   Refining the chosen model(s) further to enhance its predictive capabilities. This step involves techniques like feature selection, hyperparameter tuning, or employing ensemble methods for improved accuracy.
 
-5-Feature Importance Analysis
+# 5- Feature Importance Analysis
 
   Determining the significance of different features in predicting heart disease. Identifying which attributes contribute most significantly to the model's predictions.
 
-6-Cross-Validation
+# 6- Cross-Validation
 
   Assessing the model's generalizability and robustness by employing cross-validation techniques to ensure its effectiveness on unseen data.
 
-7-Reporting and Presentation
+# 7- Reporting and Presentation
 
   Summarizing the findings, insights, and key results obtained throughout the project. Preparing a comprehensive report or presentation highlighting the dataset insights, model performance, feature importance,    and the overall project workflow.
