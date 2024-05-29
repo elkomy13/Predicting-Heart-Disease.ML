@@ -102,3 +102,18 @@ Exploratory Data Analysis is a critical step in understanding the dataset. This 
 # 7- Reporting and Presentation
 
   Summarizing the findings, insights, and key results obtained throughout the project. Preparing a comprehensive report or presentation highlighting the dataset insights, model performance, feature importance,    and the overall project workflow.
+
+![image](https://github.com/elkomy13/Predicting-Heart-Disease.ML/assets/97259226/bf7b9098-0510-4c79-ad62-54ca3994598e)
+
+![image](https://github.com/elkomy13/Predicting-Heart-Disease.ML/assets/97259226/786eeef1-8dba-476f-af19-e06c45fbc1c5)
+
+![image](https://github.com/elkomy13/Predicting-Heart-Disease.ML/assets/97259226/af4833d9-b846-4302-96a8-b68905f4ff27)
+
+![image](https://github.com/elkomy13/Predicting-Heart-Disease.ML/assets/97259226/c4ef6530-8c48-425a-b7a1-fbffcaf684c2)
+
+![image](https://github.com/elkomy13/Predicting-Heart-Disease.ML/assets/97259226/cce08e7a-9fa2-458f-ac81-344a00dbfbe5)
+
+
+![image](https://github.com/elkomy13/Predicting-Heart-Disease.ML/assets/97259226/ce748c1f-7515-4ee7-9b34-3656cb863ec6)
+
+
